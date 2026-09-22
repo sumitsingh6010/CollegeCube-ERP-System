@@ -66,3 +66,27 @@ JWT contains:
 userId
 role
 collegeId
+
+---
+
+## 📸 Screenshots
+
+### 🏠 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### 📊 Attendance Management
+![Attendance](screenshots/attendance.png)
+
+### 💰 Fees Management
+![Fees](screenshots/fees.png)
+
+### 📅 Event Management
+![Events](screenshots/event-module.png)
+
+### 💬 Department Messenger
+![Messenger](screenshots/messenger.png)
+
+### 📝 Notes Management
+![Notes](screenshots/notes.png)
+
+---
