@@ -62,6 +62,8 @@ JWT authentication is used for secure authentication and authorization.
 
 JWT contains:
 
+![Dashboard](./screenshots/dashboard.png)
+
 ```text
 userId
 role
