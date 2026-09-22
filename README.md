@@ -175,9 +175,9 @@ PDF Report Generation
 
 👨‍💻 Author
 
-Asaraf Ali
-B.Tech IT (2022–2026)
-Full-Stack MERN Developer
+Sumit Kumar 
+B.Tech CSE (2022–2026)
+ MERN Developer
 
 ⭐ If you like this project
 
